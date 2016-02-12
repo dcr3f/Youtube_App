@@ -13,8 +13,8 @@ public class StandaloneActivity extends AppCompatActivity
 {
 
     private String GOOGLE_API_KEY = "AIzaSyAorOqxjiotZe7e_0VVmlSYAS1UXM4QPPM";
-    private String YOUTUBE_VIDEO_ID = "7F6CFyse2zc";
-    private String YOUTUBE_PLAYLIST = "PLPl8IuXNm9VRVdXy0I7cO3RkfMhjXWzJb";
+    private String YOUTUBE_VIDEO_ID = "FpMNs7H24X0";
+    private String YOUTUBE_PLAYLIST = "PLhBgTdAWkxeB-zCekGukAo0DzmpwBiua2";
     private Button btnPlayVideo;
     private Button btnPlayPlaylist;
 
