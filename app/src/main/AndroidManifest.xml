@@ -23,12 +23,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".YoutubeActivity">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
+        <activity android:name=".YoutubeActivity"
+                  android:label="Youtube Player">
         </activity>
         <!--
              The API key for Google Maps-based APIs is defined as a string resource.
@@ -42,12 +38,8 @@
             android:name="com.google.android.geo.API_KEY"
             android:value="@string/google_maps_key" />
 
-        <activity android:name=".StandaloneActivity">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
+        <activity android:name=".StandaloneActivity"
+                  android:label="Standalone Activity">
         </activity>
     </application>
 

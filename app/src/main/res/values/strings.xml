@@ -2,6 +2,6 @@
     <string name="app_name">Youtube Player</string>
     <string name="play_video">Play Video</string>
     <string name="play_playlist">Play Playlist</string>
-    <string name="launch_standalone">Launch Standalone Player</string>
-    <string name="launch_other">Launch Other Player</string>
+    <string name="launch_standalone">Launch Single Video Or Playlist</string>
+    <string name="launch_other">Launch Single Video</string>
 </resources>
